@@ -1,3 +1,3 @@
 # osmgg
 
-bot
+bot telegram
