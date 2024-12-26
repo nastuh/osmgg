@@ -1,1 +1,3 @@
 # osmgg
+
+bot
