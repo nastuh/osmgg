@@ -1,4 +1,3 @@
 # osmgg
 
-bot telegram 
-where you can play 
+python game looks like osu mania
