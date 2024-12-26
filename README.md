@@ -1,3 +1,4 @@
 # osmgg
 
-bot telegram
+bot telegram 
+where you can play
